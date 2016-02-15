@@ -1,0 +1,7 @@
+DEPENDENCIES
+  httpd (~> 0.3.4)
+
+GRAPH
+  compat_resource (12.7.1)
+  httpd (0.3.4)
+    compat_resource (>= 12.5.11)
